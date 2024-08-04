@@ -1,0 +1,12 @@
+.Button {
+  width: "20%";
+  height: "30px";
+  background-color: "red";
+  color: "white";
+  margin-top: "5%";
+  border: "none";
+}
+.divCenter {
+  display: flex;
+  justify-content: center;
+}

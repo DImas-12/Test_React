@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About
+
+ini adalah project untuk memenuhi soal test React JS, Bank INA
+
+## Screenshot
+
+![App Screenshot](./src/images/Screen_Shot_1.png)
+
+![App Screenshot](./src/images/Screen_Shot_2.png)
+
+![App Screenshot](./src/images/Screen_Shot_3.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
